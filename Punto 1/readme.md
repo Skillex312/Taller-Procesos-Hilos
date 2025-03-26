@@ -58,8 +58,10 @@ python Codigo.py
 
 Salida Esperada
 
-``` Áreas calculadas: {'Triángulo Izquierdo': 60.0, 'Rectángulo Central': 96, 'Rectángulo Superior': 48, 'Rectángulo Derecho': 30, 'Triángulo Derecho': 15.0}
-Área total de la figura: 249.0 m^2 ```
+```
+Áreas calculadas: {'Triángulo Izquierdo': 60.0, 'Rectángulo Central': 96, 'Rectángulo Superior': 48, 'Rectángulo Derecho': 30, 'Triángulo Derecho': 15.0}
+Área total de la figura: 249.0 m^2
+```
 
 Conclusión
 
